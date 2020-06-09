@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenEMRApplication", "OpenEMRApplication\OpenEMRApplication.csproj", "{2174FEFA-D5C0-446B-99F3-238020E1DA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationWrapper", "AutomationWrapper\AutomationWrapper.csproj", "{59EBB238-6ED8-4A04-B521-3B25672A41CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2174FEFA-D5C0-446B-99F3-238020E1DA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2174FEFA-D5C0-446B-99F3-238020E1DA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2174FEFA-D5C0-446B-99F3-238020E1DA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2174FEFA-D5C0-446B-99F3-238020E1DA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EBB238-6ED8-4A04-B521-3B25672A41CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EBB238-6ED8-4A04-B521-3B25672A41CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EBB238-6ED8-4A04-B521-3B25672A41CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EBB238-6ED8-4A04-B521-3B25672A41CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6D9E67-5BA9-4044-AB9A-A58DBE0C33D3}
+	EndGlobalSection
+EndGlobal

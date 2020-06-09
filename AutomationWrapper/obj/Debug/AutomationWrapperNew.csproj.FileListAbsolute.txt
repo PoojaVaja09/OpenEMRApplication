@@ -1,0 +1,2 @@
+D:\Sollers\Selenium Concept\OpenEMRApplication\AutomationWrapperNew\obj\Debug\AutomationWrapperNew.csprojAssemblyReference.cache
+D:\Sollers\Selenium Concept\OpenEMRApplication\AutomationWrapperNew\obj\Debug\AutomationWrapperNew.csproj.CoreCompileInputs.cache
